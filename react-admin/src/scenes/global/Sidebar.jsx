@@ -95,7 +95,7 @@ const Sidebar = () => {
                   alt="profile-user"
                   width="100px"
                   height="100px"
-                  src={`assets/user.png`}
+                  src={`https://via.placeholder.com/150/0000FF/808080?text=USER`}
                   style={{ cursor: "pointer", borderRadius: "50%" }}
                 />
               </Box>
